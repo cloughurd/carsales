@@ -2,6 +2,10 @@
   <div id="app">
     <app-header/>
     <router-view/>
+
+    <footer>
+    cloughurd<br><a href="https://github.com/cloughurd/carsales">github</a>
+    </footer>
   </div>
 </template>
 
